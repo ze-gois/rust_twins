@@ -1,8 +1,8 @@
-cargo:rerun-if-changed=/backup/hub/rust_twins/linker.ld
+cargo:rerun-if-changed=/backup/hub/rust_twins/target/package/twins-0.0.1/linker.ld
 cargo:rerun-if-changed=./build.rs
 cargo:rerun-if-changed=./src/
 cargo:rerun-if-changed=./crates/
-cargo:rustc-link-arg=-T/backup/hub/rust_twins/linker.ld
+cargo:rustc-link-arg=-T/backup/hub/rust_twins/target/package/twins-0.0.1/linker.ld
 cargo:rustc-link-arg=-static
 cargo:rustc-link-arg=--no-dynamic-linker
 cargo:rustc-link-arg=-n
