@@ -104,13 +104,13 @@ https://github.com/yanliang3612/material-discovery-literature/blob/main/README.m
 
 https://gitlab.com/QEF/q-e
 
-https://gitlab.com/explore/projects/topics/computational chemistry
+https://gitlab.com/explore/projects/topics/computational+chemistry
 
 https://gitlab.com/fhi-aims-club/
 
 https://gitlab.com/gpaw/gpaw
 
-https://gitlab.com/siesta-project/siesta/}
+https://gitlab.com/siesta-project/siesta/
 
 https://grokipedia.com/page/List_of_quantum_chemistry_and_solid-state_physics_software
 
