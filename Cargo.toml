@@ -1,6 +1,6 @@
 [package]
 name = "twins"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 authors = ["José Gois <ze.gois.00@gmail.com>"]
 description = "digital twin"
